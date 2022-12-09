@@ -1,4 +1,4 @@
-Rodruggo 
+Rodruggo 7inches
 package javaapplication44;
 import java.util.Scanner;
 public class JavaApplication44 {
